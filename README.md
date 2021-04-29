@@ -6,7 +6,7 @@ A Machine Learning Project base on the web scraping data on Kickstarter crowdfun
 Data source: https://www.kaggle.com/yashkantharia/kickstarter-campaigns
 
 # Business Problem
-1) (Classification) -Campaign Success predictor 
-    -predict whether the project would successfully funded base on the project industry, country and funding goal. 
+1) Campaign Success predictor -(Classification) 
+    -predict whether the project would successfully funded base on the project category, US/ Non-US country, release time and amount of funding. 
 
-2) (Linear Regression) - Goal base on project
+2) Funding pledged -(Linear Regression)
