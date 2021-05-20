@@ -17,7 +17,7 @@ Link: https://www.kaggle.com/yashkantharia/kickstarter-campaigns
 - [Challenge](#Challenge)
 - [Room for Improvement & future application](#Room_for_Improvement_and_future_application)
 
-----------------------------------------------------------
+-------------(Below part is waiting for update)---------------------------------------------
 ## Project_background_and_aim
 In this project, we are a group of consultants that offer advice to help our client, a Japanese Food Inc, to open a Japanese restaurant on the Hong Kong Island. We will use web scraping to understand the Japanese restaurant market on the Hong Kong Island and provide suitable business advice on the restaurant location, menu price range and types of Japanese food. <br>
 
