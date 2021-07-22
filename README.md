@@ -21,9 +21,6 @@ Link: https://www.kaggle.com/yashkantharia/kickstarter-campaigns
 ## Project_background_and_aim
 In this project, we will develop machine learning model on predicting whether a startup project on KickStarter would be successfully funded, depending on the industry the project belongs to, the targeted fund and the seasons of the project luanched.
 
-we are a group of consultants that offer advice to help our client, a Japanese Food Inc, to open a Japanese restaurant on the Hong Kong Island. We will use web scraping to understand the Japanese restaurant market on the Hong Kong Island and provide suitable business advice on the restaurant location, menu price range and types of Japanese food. <br>
-
-Our aim is to provide suggestion for the most profitable combination of restaurant location, menu price range and types of Japanese food for the new restaurant.
 
 
 # Business Problem
