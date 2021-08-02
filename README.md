@@ -1,10 +1,10 @@
-(<img src=" " width="600">)
+(<img src="KICKSTARTER.jpg" width="600">)
 
 # Machine Learning project on Kickstarter campaign success prediction
 
-This is a Machine Learning Project to do Kickstarter campaign success prediction base on kickstarter crownfunding campaign data from kaggle. 
+Our team would like to apply our machine learning skills to predict whether a Kick Starter project would be successfully funded based on the project category, launching month, duration, project location and the goal USD of the project. <br>
 
-Link: https://www.kaggle.com/yashkantharia/kickstarter-campaigns
+Data is from kaggle dataset: https://www.kaggle.com/yashkantharia/kickstarter-campaigns
 
 ## Table of Contents
 
@@ -17,36 +17,27 @@ Link: https://www.kaggle.com/yashkantharia/kickstarter-campaigns
 - [Challenge](#Challenge)
 - [Room for Improvement & future application](#Room_for_Improvement_and_future_application)
 
--------------(Below part is waiting for update)---------------------------------------------
+
 ## Project_background_and_aim
-In this project, we will develop machine learning model on predicting whether a startup project on KickStarter would be successfully funded, depending on the industry the project belongs to, the targeted fund and the seasons of the project luanched.
 
+Starting a new venture and put your creative idea into real life can be exciting yet hard to complete as lack of capital. The global crownfunding platform KickStarter may create a great opportunity for you to make your dream come true. However, you may still hesitate if others also see your project as feasible and can get enough fund from the crownfunding. <br>
 
+In this project, our team will act as a group of consultants in Kickstarter who would like to use Machine Learning models to predict whether the startup projects would be successfully funded. <br>
 
-# Business Problem
-1) Campaign Success predictor -(Classification) 
-    -predict whether the project would successfully funded base on the project category, US/ Non-US country, release time and amount of funding. 
+### Business Problem
 
-2) Funding pledged -(Linear Regression)
+The major problem we would like to solve is to develop a Campaign Success predictor to predict whether the project would successfully funded base on the project category, US/ Non-US country, release time and the goal USD of the project.  <br>
+
+We would also like to further investigate if we would predict how much the project would be funded based on the project category, US/ Non-US country and release time to provide a guideline for our clients.<br>
 
 
 
 ## Data_Collection
-Web scraping was preformed on the search result of Japanese restaurant on Hong Kong Island in Openrice.com. <br>
+Our dataset is from Kaggle, with 170K project entries (after cleaning duplicates) labeled as 'successful' or 'failed' as the crown funding 'status'. Also the amount of money funded is shown in USD dollars in 'USD pledge'. <br>
 
-<img src="image/example.png" width="600">
+<img src="info.png" width="600">
 
-Here is an example of the restaurant information that provided from that search result. For each restaurant, we collected the below data for our analysis.
-- Restaurant ID (unique)
-- Address (location) 
-- No. of bookmarks
-- Price range
-- Likes / dislikes 
-- Cuisine
-- No. of reviews
-
-<img src="image/code_restaurant_info.png" width="600">
-
+-------------(Below part is waiting for update)---------------------------------------------
 ## Data_Preprocessing
 In data preprocessing, duplicated data was dropped according to unqiue res_id provide by Openrice.com and we have screened out restaurant that with number of reviews less than 5. <br>
 <img src="image/code_preprocess.png" width="600">
