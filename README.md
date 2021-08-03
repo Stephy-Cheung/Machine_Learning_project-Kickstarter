@@ -117,6 +117,6 @@ For the amount of USD pledged, since there is no suitable model for the predicti
 - More features of the projects may required to find the relationship with the amount of USD that can be funded as the current dataset is not sufficient to develop a realiable regression model.<br>
 
 ## Room_for_Improvement_and_future_application
-Since time is restricted in the project, we are unable to find a suitable model for the regression prediction. We would suggest to find out more features about the projects to understand how others value a kickstarter projects.<br>
+Since time is restricted in the project, we are unable to find a suitable model for the regression prediction. We would suggest to find out more features about the projects to understand how other people value a kickstarter projects.<br>
 
 A more accurate classification model on the successfulness and a reliable regression model on the amount of fund prediction would helps young entrepreneurs know better about their projects and increase the rate of success. <br>
